@@ -5,7 +5,7 @@
  </p>
  
  <p align="center"> 
-    <a href="https://github.com/Lemonadeccc" style = "float:left">
+    <a href="https://github.com/Lemonadeccc">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lemonadeccc&show_icons=true&theme=dracula"/>
     </a>
     <a href="https://github.com/Lemonadeccc">
