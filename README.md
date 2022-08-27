@@ -4,7 +4,7 @@
     </a>
  </p>
  
- <p>
+ <p align="center"> 
     <a href="https://github.com/Lemonadeccc" style = "float:left">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lemonadeccc&show_icons=true&theme=dracula"/>
     </a>
