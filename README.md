@@ -24,12 +24,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemonadeccc&layout=compact&theme=dracula)](https://github.com/Lemonadeccc)
 -->
 
-## Coding Time
+## 🌠 Coding Time
 > the projects I'm working on
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Lemonadeccc&theme=dracula&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemonadeccc&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=dracula&langs_count=6&layout=compact" />
 </div>
 
-## Github Profile Trophy
+## 🏆 Github Profile Trophy
 <img src="https://github-profile-trophy.vercel.app/?username=Lemonadeccc&theme=dracula&column=8"/>
