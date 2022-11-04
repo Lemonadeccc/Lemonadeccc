@@ -5,7 +5,7 @@
     </a>
  </p>
  
- <p align="center"> 
+ <p align="left"> 
     <a href="https://github.com/Lemonadeccc">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lemonadeccc&show_icons=true&theme=dracula"/>
     </a>
