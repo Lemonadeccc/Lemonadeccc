@@ -1,6 +1,8 @@
-<h1 align="center">
-  Hey, I'm Lemonadeccc!
-</h1>
+<div>
+  <h1 align="center">
+    Hey, I'm Lemonadeccc!
+  </h1>
+</div>
 <!--
 <p align="center">
     <a href="https://github.com/Lemonadeccc">
@@ -21,6 +23,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemonadeccc&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemonadeccc&layout=compact&theme=dracula)](https://github.com/Lemonadeccc)
 -->
+
 ## Coding Time
 > the projects I'm working on
 <div>
