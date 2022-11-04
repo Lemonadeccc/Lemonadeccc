@@ -21,7 +21,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemonadeccc&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemonadeccc&layout=compact&theme=dracula)](https://github.com/Lemonadeccc)
 -->
-##  🌠 Coding Time
+## 🌠 Coding Time
 > the projects I'm working on
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Lemonadeccc&theme=dracula&show_icons=true" />
