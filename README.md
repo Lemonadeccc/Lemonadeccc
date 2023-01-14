@@ -27,8 +27,8 @@
 ## 🌠 Coding Time
 > the projects I'm working on
 <div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Lemonadeccc&theme=dracula&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemonadeccc&theme=dracula&langs_count=6&layout=compact" />
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=younger-1&theme=dracula&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemonadeccc&theme=dracula&langs_count=6&layout=compact"" />
 </div>
 
 ## 🏆 Github Profile Trophy
