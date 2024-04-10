@@ -32,4 +32,4 @@
 </div> -->
 
 ## 🏆 Github Profile Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=Lemonadeccc&theme=dracula&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Lemonadeccc&theme=dracula&column=9"/>
