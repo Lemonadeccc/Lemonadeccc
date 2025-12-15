@@ -1,12 +1,12 @@
 # <img src="./images/BMO.gif" width="45"/> <img src="./images/Greeting.gif" height="45"/></p>
 
 <p>
-  <img alt="Vue.js" src="https://img.shields.io/badge/vue-whitesmoke?style=for-the-badge&logo=vue.js" />
-  <img alt="React" src="https://img.shields.io/badge/react-whitesmoke?style=for-the-badge&logo=react" />
-  <img alt="Next.js" src="https://img.shields.io/badge/next-whitesmoke?style=for-the-badge&logo=next.js" />
-  <img alt="Node.js" src="https://img.shields.io/badge/node.js-whitesmoke?style=for-the-badge&logo=node.js" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-whitesmoke?style=for-the-badge&logo=typescript" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwind%20css-whitesmoke?style=for-the-badge&logo=tailwindcss" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/vue-gainsboro?style=for-the-badge&logo=vue.js" />
+  <img alt="React" src="https://img.shields.io/badge/react-gainsboro?style=for-the-badge&logo=react" />
+  <img alt="Next.js" src="https://img.shields.io/badge/next-gainsboro?style=for-the-badge&logo=next.js" />
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js-gainsboro?style=for-the-badge&logo=node.js" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-gainsboro?style=for-the-badge&logo=typescript" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwind%20css-gainsboro?style=for-the-badge&logo=tailwindcss" />
 </p>
 
 ```diff
