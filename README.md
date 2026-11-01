@@ -16,4 +16,6 @@
 - 🍄 Use code to make a difference in the world
 + 🌴 Build open-source projects to explore creative ideas
 ```
-🧩 [Things I build](https://lemonadec.cc/archive?tab=portfolio) · ✍️ [Things I write](https://lemonadec.cc/archive)
+🧩 <a href="https://lemonadec.cc/archive?tab=portfolio" target="_blank" rel="noopener noreferrer">Things I build</a>
+·
+✍️ <a href="https://lemonadec.cc/archive" target="_blank" rel="noopener noreferrer">Things I write</a>
