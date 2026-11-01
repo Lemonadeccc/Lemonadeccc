@@ -19,10 +19,13 @@
 
 ### 🧩 Things I build
 
-| Project | Links |
-| :--- | :--- |
-| 🤖 **PR Agent** | [Repo](https://github.com/condevtools/pr-agent) · [Website](https://pr-agent.condevtools.com/) |
-| 🎨 **Condev UI** | [Repo](https://github.com/Lemonadeccc/condev-ui) · [Website](https://ui.condevtools.com/) |
-| 📊 **Condev Monitor** | [Repo](https://github.com/Lemonadeccc/condev-monitor) · [Website](https://monitor.condevtools.com/) |
+🤖 **PR Agent**<br>
+[`Repo`](https://github.com/condevtools/pr-agent) · [`Website`](https://pr-agent.condevtools.com/)
+
+🎨 **Condev UI**<br>
+[`Repo`](https://github.com/Lemonadeccc/condev-ui) · [`Website`](https://ui.condevtools.com/)
+
+📊 **Condev Monitor**<br>
+[`Repo`](https://github.com/Lemonadeccc/condev-monitor) · [`Website`](https://monitor.condevtools.com/)
 
 🌴 [More projects](https://lemonadec.cc/archive?tab=portfolio) · ✍️ [Things I write](https://lemonadec.cc/archive)
