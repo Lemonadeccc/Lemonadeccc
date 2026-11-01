@@ -17,15 +17,6 @@
 + 🌴 Build open-source projects to explore creative ideas
 ```
 
-### 🧩 Things I build
-
-🤖 **PR Agent**<br>
-[`Repo`](https://github.com/condevtools/pr-agent) · [`Website`](https://pr-agent.condevtools.com/)
-
-🎨 **Condev UI**<br>
-[`Repo`](https://github.com/Lemonadeccc/condev-ui) · [`Website`](https://ui.condevtools.com/)
-
-📊 **Condev Monitor**<br>
-[`Repo`](https://github.com/Lemonadeccc/condev-monitor) · [`Website`](https://monitor.condevtools.com/)
-
-🌴 [More projects](https://lemonadec.cc/archive?tab=portfolio) · ✍️ [Things I write](https://lemonadec.cc/archive)
+🧩 <a href="https://lemonadec.cc/archive?tab=portfolio" target="_blank" rel="noopener noreferrer">Things I build</a>
+·
+✍️ <a href="https://lemonadec.cc/archive" target="_blank" rel="noopener noreferrer">Things I write</a>
