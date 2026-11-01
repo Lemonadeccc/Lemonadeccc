@@ -16,3 +16,11 @@
 - 🍄 Use code to make a difference in the world
 + 🌴 Build open-source projects to explore creative ideas
 ```
+<p>
+  <a href="https://lemonadec.cc/archive?tab=portfolio">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-whitesmoke?style=for-the-badge" />
+  </a>
+  <a href="https://lemonadec.cc/archive">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-whitesmoke?style=for-the-badge" />
+  </a>
+</p>
