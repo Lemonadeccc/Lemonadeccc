@@ -16,6 +16,13 @@
 - 🍄 Use code to make a difference in the world
 + 🌴 Build open-source projects to explore creative ideas
 ```
-🧩 <a href="https://lemonadec.cc/archive?tab=portfolio" target="_blank" rel="noopener noreferrer">Things I build</a>
-·
-✍️ <a href="https://lemonadec.cc/archive" target="_blank" rel="noopener noreferrer">Things I write</a>
+
+### 🧩 Things I build
+
+| Project | Links |
+| :--- | :--- |
+| 🤖 **PR Agent** | [Repo](https://github.com/condevtools/pr-agent) · [Website](https://pr-agent.condevtools.com/) |
+| 🎨 **Condev UI** | [Repo](https://github.com/Lemonadeccc/condev-ui) · [Website](https://ui.condevtools.com/) |
+| 📊 **Condev Monitor** | [Repo](https://github.com/Lemonadeccc/condev-monitor) · [Website](https://monitor.condevtools.com/) |
+
+🌴 [More projects](https://lemonadec.cc/archive?tab=portfolio) · ✍️ [Things I write](https://lemonadec.cc/archive)
