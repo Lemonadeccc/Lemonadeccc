@@ -23,43 +23,25 @@
 
 ## Selected projects
 
-Developer tools, interfaces, and AI experiments.
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://pr-agent.condevtools.com/">
-        <img src="https://imgbed.lemonadec.cc/2026/03/img6.png" alt="pr-agent — AI code review landing page" width="100%" />
-      </a>
-      <h3><a href="https://pr-agent.condevtools.com/">pr-agent</a></h3>
-      <p>AI-powered pull request reviews for GitHub.</p>
-      <p><a href="https://pr-agent.condevtools.com/">View project →</a></p>
+      <a href="https://pr-agent.condevtools.com/"><img src="https://imgbed.lemonadec.cc/2026/03/img6.png" alt="pr-agent" width="100%" align="top" /></a><br />
+      <a href="https://pr-agent.condevtools.com/">pr-agent</a>&ensp;<a href="https://github.com/condevtools/pr-agent">project</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://ui.condevtools.com/">
-        <img src="https://imgbed.lemonadec.cc/2026/03/img1.jpg" alt="condev-ui — React component library landing page" width="100%" />
-      </a>
-      <h3><a href="https://ui.condevtools.com/">condev-ui</a></h3>
-      <p>Headless React components for interactive interfaces.</p>
-      <p><a href="https://ui.condevtools.com/">View project →</a></p>
+      <a href="https://ui.condevtools.com/"><img src="https://imgbed.lemonadec.cc/2026/03/img1.jpg" alt="condev-ui" width="100%" align="top" /></a><br />
+      <a href="https://ui.condevtools.com/">condev-ui</a>&ensp;<a href="https://github.com/Lemonadeccc/condev-ui">project</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://monitor.condevtools.com/">
-        <img src="https://imgbed.lemonadec.cc/2026/03/img2.jpg" alt="condev-monitor — monitoring platform login screen" width="100%" />
-      </a>
-      <h3><a href="https://monitor.condevtools.com/">condev-monitor</a></h3>
-      <p>Frontend monitoring with error tracking, Web Vitals, and session replay.</p>
-      <p><a href="https://monitor.condevtools.com/">View project →</a></p>
+      <a href="https://monitor.condevtools.com/"><img src="https://imgbed.lemonadec.cc/2026/03/img2.jpg" alt="condev-monitor" width="100%" align="top" /></a><br />
+      <a href="https://monitor.condevtools.com/">condev-monitor</a>&ensp;<a href="https://github.com/Lemonadeccc/condev-monitor">project</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://gen-3-d-assests-web.vercel.app/">
-        <img src="https://imgbed.lemonadec.cc/2026/03/img4.jpg" alt="GEN 3D ASSETS — AI 3D generation platform landing page" width="100%" />
-      </a>
-      <h3><a href="https://gen-3-d-assests-web.vercel.app/">GEN 3D ASSETS</a></h3>
-      <p>Turn text and images into 3D assets with AI.</p>
-      <p><a href="https://gen-3-d-assests-web.vercel.app/">View project →</a></p>
+      <a href="https://gen-3-d-assests-web.vercel.app/"><img src="https://imgbed.lemonadec.cc/2026/03/img4.jpg" alt="GEN 3D ASSETS" width="100%" align="top" /></a><br />
+      <a href="https://gen-3-d-assests-web.vercel.app/">GEN&nbsp;3D&nbsp;ASSETS</a>&ensp;<a href="https://github.com/Lemonadeccc/GEN-3D-ASSESTS">project</a>
     </td>
   </tr>
 </table>
