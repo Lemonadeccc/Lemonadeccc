@@ -21,8 +21,6 @@
 ·
 ✍️ <a href="https://lemonadec.cc/archive">Things I write</a>
 
-## Selected projects
-
 <table>
   <tr>
     <td width="50%" valign="top">
